@@ -12,7 +12,7 @@ dldir="comics"	#The name of the directory you want to download to (can be ausolu
 function show_usage {
 	echo "Usage: Add an [OPTION] when you run this script."
 	echo " -a    Download from an nhentai (search/tags/artists/...) website that include multi comics. Such as https://nhentai.net/search/?q=xxxxxx ."
-	echo " -b    Download from nhentai websites like https://nhentai.net/g/xxxxxx/"
+	echo " -b    Download from nhentai websites like https://nhentai.net/g/326785/"
 	exit
 }
 
